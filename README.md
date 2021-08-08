@@ -11,8 +11,12 @@ The dunst notif' being super... outrageously.. laughably large was initially a m
 i3-gaps, i3lock-fancy or i3lock-color & betterlockscreen, rofi, dunst, kitty, sublime, neovim, polybar, thunar, zathura.
 
 I provide GTK and QT options.
-
 No extra changes for GTK needed, for QT I recommend plastique. If youre on arch [aur/qt5-styleplugins-git]
+
+## If you plan to use QT. 
+I made a mistake by uploading ALL of my QT colorschemes. (located in .config/qt5ct/colors/) The only relevant ones you should copy over is oomox-Royalty.conf
+I'll make this easier in the future by just deleting the files, but right at this moment I don't know how to do that. Bare with me lol. 
+
 
 ## Boot 
 
