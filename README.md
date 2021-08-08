@@ -31,6 +31,6 @@ I didn't bother saving any screenshots of the previous editon because it wasn't 
 
 ## Screens:
 
-![image](screenshots/reddit-screens.png)
+![image](screenshots/reddit-screenshots.png)
 
 ![image](screenshots/thunar-pomotroid.png)
