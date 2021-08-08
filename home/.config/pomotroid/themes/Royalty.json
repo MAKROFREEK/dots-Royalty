@@ -1,0 +1,17 @@
+
+{
+  "name": "Royalty",
+  "colors": {
+    "--color-long-round": "#7182ed",
+    "--color-short-round": "#b22f72",
+    "--color-focus-round": "#6a83bf",
+    "--color-foreground-darker": "#e597b5",
+    "--color-background": "#161830",
+    "--color-background-light": "#24274F",
+    "--color-background-lightest": "#111326",
+    "--color-foreground": "#94a5d1",
+    "--color-foreground-darker": "#24274F",
+    "--color-foreground-darkest": "#94a5d1",
+    "--color-accent": "#6a83bf"
+  }
+}
