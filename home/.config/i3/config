@@ -30,7 +30,7 @@ exec_always killall polybar; polybar main
 floating_modifier $mod 
 bindsym $mod+y border none
 bindsym $mod+c exec killall dunst; exec rofi -show calc -theme ~/.config/rofi/launcher.rasi -monitor DP-2 
-bindsym $mod+d exec killall dunst; exec rofi -show drun -show-icons oomox-Spacegray -theme ~/.config/rofi/launcher.rasi -monitor DP-2
+bindsym $mod+d exec killall dunst; exec rofi -show drun -show-icons oomox-Royalty -theme ~/.config/rofi/launcher.rasi -monitor DP-2
 # bindsym $mod+s 
 bindsym $mod+e exec kitty -e ranger
 bindsym $mod+Shift+e exec thunar
