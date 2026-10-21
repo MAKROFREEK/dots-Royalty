@@ -1,4 +1,4 @@
-LetsHaveKiddos | Royalty
+MAKROFREEK | Royalty
 ===========================
 
 Just a really cool scheme made from a really good palette from a really decent background.
